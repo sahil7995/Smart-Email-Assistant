@@ -40,16 +40,20 @@ The architecture allows easy configuration of the AI API key, facilitating integ
    ```bash
    git clone https://github.com/sahil7995/Smart-Email-Assistant.git
    cd Smart-Email-Assistant
+   cd email-writer-back_end
    
-2. Configure your AI API key in the designated configuration file.
+2. Configure your AI API key in the application.properties file.
    
 3. Build and run the backend Spring Boot service:
-   
+
+   ```bash
    ./mvnw spring-boot:run
 
 4. Navigate to the frontend directory, install dependencies, and start the React app:
-   
-   cd frontend
+
+   ```bash
+   cd Smart-Email-Assistant
+   cd email-writer-front_end
    npm install
    npm start
 
