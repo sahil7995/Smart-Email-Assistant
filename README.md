@@ -60,10 +60,12 @@ The architecture allows easy configuration of the AI API key, facilitating integ
 5. Load the Chrome extension:
 
    Open Chrome and go to chrome://extensions/
+   
    Enable Developer mode
+   
    Click Load unpacked and select the extension folder
 
-6. Open Gmail, compose a new email or reply to an existing one, and use the Generate button added by the extension to automatically create email content.
+7. Open Gmail, compose a new email or reply to an existing one, and use the Generate button added by the extension to automatically create email content.
 
 ## Future Improvements
 
@@ -80,6 +82,7 @@ Contributions are welcome! Please submit issues or pull requests to help improve
 
 ## License
 This project is licensed under the MIT License.
+
 
 Created with ❤️ by Sahil Bhandari
 
